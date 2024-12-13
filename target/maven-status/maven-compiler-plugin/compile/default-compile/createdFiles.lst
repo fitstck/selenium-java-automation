@@ -1,0 +1,5 @@
+base/BaseClass.class
+pages/PergiKulinerPage.class
+pages/GoogleSearchPage.class
+pages/BusTicketOnlinePage.class
+pages/TodoistHomePage.class

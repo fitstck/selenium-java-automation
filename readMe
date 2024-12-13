@@ -1,0 +1,14 @@
+###pre-requisite
+- install jdk17
+- install maven
+
+##how to run
+if you want to run specific file:
+mvn clean test -Dtest=<name file in test> => e.g:  mvn clean test -Dtest=BusTicketOnlineTest
+
+if you want to run web only:
+mvn clean test -Pweb-tests
+
+if you want to run code logic:
+step 1. javac -d out <path to file> => e.g: javac -d out src/main/java/base/Main.java
+step 2. java -cp out <file name) => e.g java -cp out base.Main
