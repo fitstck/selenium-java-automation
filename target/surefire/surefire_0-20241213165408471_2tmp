@@ -1,0 +1,5 @@
+#surefire_0
+#Fri Dec 13 16:54:08 WIB 2024
+basedir=/Users/fitrirahmadhani/selenium-java-automation
+test=BusTicketOnlineTest
+localRepository=/Users/fitrirahmadhani/.m2/repository

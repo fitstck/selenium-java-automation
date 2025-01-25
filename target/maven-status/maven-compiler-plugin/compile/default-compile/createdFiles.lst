@@ -1,4 +1,7 @@
 base/BaseClass.class
+base/DuplicateElement.class
+base/MinStack.class
+base/Main.class
 pages/PergiKulinerPage.class
 pages/GoogleSearchPage.class
 pages/BusTicketOnlinePage.class
